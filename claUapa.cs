@@ -17,6 +17,7 @@ namespace P3_Tarea1
         {
            return "ID: " +this.id+ "\nNombre y apellido: "+ this.nombre +" "
                    +this.apPaterno+"\nCargo: "+this.cargo +"\nSueldo: "+this.sueldo;
+            //klkhhhhhhhhhhhhhhhhhh
         } 
     }
 }
